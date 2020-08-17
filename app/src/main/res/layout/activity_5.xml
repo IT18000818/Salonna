@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity5">
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="349dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="16dp"
+        android:background="#40C4FF"
+        android:text="@string/btn33"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="349dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="84dp"
+        android:background="#40C4FF"
+        android:text="@string/btn34"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="326dp"
+        android:layout_height="290dp"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="149dp" />
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:background="#40C4FF"
+        android:text="@string/btn35"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="447dp" />
+
+    <Button
+        android:id="@+id/button19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="212dp"
+        android:text="@string/btn36"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="447dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn37"
+        android:textColor="#121111"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="521dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="188dp"
+        android:layout_height="24dp"
+        android:text="@string/btn40"
+        android:textColor="#121111"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="212dp"
+        tools:layout_editor_absoluteY="555dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="188dp"
+        android:layout_height="28dp"
+        android:text="@string/btn38"
+        android:textColor="#151414"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="212dp"
+        tools:layout_editor_absoluteY="521dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn39"
+        android:textColor="#292727"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="555dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="186dp"
+        android:layout_height="23dp"
+        android:text="@string/btn42"
+        android:textColor="#131313"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="212dp"
+        tools:layout_editor_absoluteY="590dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn41"
+        android:textColor="#2B2929"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="590dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="280dp"
+        android:layout_height="33dp"
+        android:text="@string/btn43"
+        android:textColor="#3A3838"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="624dp" />
+
+    <Button
+        android:id="@+id/button20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#40C4FF"
+        android:text="@string/btn44"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="667dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

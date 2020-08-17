@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity8">
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="302dp"
+        android:layout_height="148dp"
+        android:background="#40C4FF"
+        android:checked="true"
+        android:text="CheckBox"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="41dp"
+        tools:text="DONE" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="305dp"
+        android:layout_height="166dp"
+        android:background="#40C4FF"
+        android:text="@string/btn61"
+        android:textAlignment="center"
+        android:textColor="#272525"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="37dp"
+        tools:layout_editor_absoluteY="271dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="192dp"
+        android:layout_height="58dp"
+        android:background="#40C4FF"
+        android:text="@string/btn62"
+        android:textColor="#232020"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="486dp" />
+
+    <Button
+        android:id="@+id/button25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#40C4FF"
+        android:text="@string/btn63"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="622dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
