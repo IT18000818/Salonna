@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Text1">Create Account</string>
+    <string name="textbox1" />
+    <string name="text3">Phone</string>
+    <string name="text4">Password</string>
+    <string name="chkbx1">I agree with terms and conditions</string>
+    <string name="btn1">Create</string>
+    <string name="text5">Add +</string>
+    <string name="text6">Style Name :</string>
+    <string name="textbox2" />
+    <string name="text7">Price :</string>
+    <string name="text8">Duration :</string>
+    <string name="textbox3" />
+    <string name="btn2">Add +</string>
+    <string name="text9">Normal Dressing</string>
+    <string name="text10" />
+    <string name="btn3">Edit</string>
+    <string name="btn4">Delete</string>
+    <string name="text11">Saree</string>
+    <string name="text12">LKR 500</string>
+    <string name="text13">Kandyan</string>
+    <string name="text14">LKR600</string>
+    <string name="btn5">EDIT</string>
+    <string name="btn6">DELETE</string>
+    <string name="btn7">ADD +</string>
+    <string name="text15">EDIT</string>
+    <string name="text16">Style Name :</string>
+    <string name="textbox4" />
+    <string name="text17">Price</string>
+    <string name="textbox5" />
+    <string name="text18">Duration</string>
+    <string name="textbox6" />
+    <string name="btn8">EDIT</string>
+    <string name="text19">Select your date and time</string>
+    <string name="text20">Anna Peterson</string>
+    <string name="text21">Start at</string>
+    <string name="text22">End at</string>
+    <string name="radio1">at your place</string>
+    <string name="text23">Address</string>
+    <string name="text24">Location</string>
+    <string name="btn9">Add more services</string>
+    <string name="btn10">Finish</string>
+    <string name="radio2">At salon</string>
+
+
+</resources>
