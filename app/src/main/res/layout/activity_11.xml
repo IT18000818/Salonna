@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity11">
+
+    <Button
+        android:id="@+id/button25"
+        android:layout_width="159dp"
+        android:layout_height="150dp"
+        android:background="#40C4FF"
+        android:text="@string/btn58"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="253dp" />
+
+    <Button
+        android:id="@+id/button26"
+        android:layout_width="159dp"
+        android:layout_height="150dp"
+        android:background="#40C4FF"
+        android:text="@string/btn59"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="204dp"
+        tools:layout_editor_absoluteY="253dp" />
+
+    <Button
+        android:id="@+id/button27"
+        android:layout_width="60dp"
+        android:layout_height="51dp"
+        android:background="#40C4FF"
+        android:text="@string/btn60"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="474dp" />
+
+    <Button
+        android:id="@+id/button31"
+        android:layout_width="60dp"
+        android:layout_height="51dp"
+        android:background="#40C4FF"
+        android:text="@string/btn61"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="474dp" />
+
+    <Button
+        android:id="@+id/button32"
+        android:layout_width="60dp"
+        android:layout_height="51dp"
+        android:background="#40C4FF"
+        android:text="@string/btn62"
+        tools:layout_editor_absoluteX="166dp"
+        tools:layout_editor_absoluteY="474dp" />
+
+    <Button
+        android:id="@+id/button33"
+        android:layout_width="60dp"
+        android:layout_height="51dp"
+        android:background="#40C4FF"
+        android:text="@string/btn63"
+        tools:layout_editor_absoluteX="236dp"
+        tools:layout_editor_absoluteY="474dp" />
+
+    <Button
+        android:id="@+id/button34"
+        android:layout_width="60dp"
+        android:layout_height="51dp"
+        android:background="#40C4FF"
+        android:text="@string/btn64"
+        tools:layout_editor_absoluteX="303dp"
+        tools:layout_editor_absoluteY="474dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
